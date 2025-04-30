@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm a **Java Developer** passionate about technolo
 - 💬 Ask me about **web development**, **backend systems**, or **anything tech-related**.
 - 📫 How to reach me: **[saurabhsri.mau@gmail.com]** or connect with me on **[LinkedIn](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)**.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=JAVA-Full-Stack+Developer;MERN+Stack;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 ## 🛠️ Tech Stack
 
 - **Programming Languages**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
