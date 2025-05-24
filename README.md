@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a **Java Developer** passionate about technolo
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **new technologies and frameworks**.
+- 🌱 I’m currently learning **new technologies and Microservices in Spring Boot**.
 - 👨‍💻 I enjoy working on **open-source projects**, **side-projects**, and exploring **new tools**.
-- 💬 Ask me about **web development**, **backend systems**, or **anything tech-related**.
+- 💬 Ask me about **web development**, **backend systems**, **Java Spring Boot or Core Java**, or **anything tech-related**.
 - 📫 How to reach me: **[saurabhsri.mau@gmail.com]** or connect with me on **[LinkedIn](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)**.
 
 <p align="center">
