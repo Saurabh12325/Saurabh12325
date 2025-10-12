@@ -79,15 +79,17 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 
 ---
 
-## <p align="center">📈 GitHub Stats & Contributions</p>
+## <p align="center">📈 GitHub Stats & Languages</p>
 
+<!-- GitHub Stats (Top) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurabh12325&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh12325&theme=radical" height="180em" />
 </p>
 
+<!-- Side-by-side: Most Used Languages + Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh12325&layout=compact&theme=radical" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh12325&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh12325&theme=radical" height="180em" />
 </p>
 
 ---
@@ -122,4 +124,4 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 <p align="center">
 Thanks for visiting my profile! 😊 <br/>
 Feel free to explore my repositories and reach out if you’d like to collaborate 🤝
-</p> 
+</p>
