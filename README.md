@@ -100,7 +100,7 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 **Description**: SnapSphere is a social media platform like Instagram, built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ### [CCC Quiz Web Application Backend](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
-**Description**: Backend for the Cloud Computing Cell Quiz Web Application of AKGEC using Java Spring Boot.
+**Description**: Backend for the Cloud Computing Cell Quiz Application of AKGEC using Java Spring Boot.
 
 ---
 
