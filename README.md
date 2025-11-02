@@ -96,11 +96,11 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 
 ## <p align="center">📂 Featured Projects</p>
 
-### [SnapSphere Website](https://github.com/Saurabh12325/SnapSphere-Website)
-**Description**: SnapSphere is a social media platform like Instagram, built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+### [SnapSphere Website](https://github.com/Saurabh12325/MyFinanceWebsite)
+**Description**:MyFinance Website is a modern personal finance management platform that helps users track income, expenses, and savings with intuitive dashboards and visual analytics. Built using the JAVA Full stack using React and Spring Boot, it provides secure authentication, category-based tracking, and insightful financial summaries for better money management ).
 
-### [CCC Quiz Web Application Backend](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
-**Description**: Backend for the Cloud Computing Cell Quiz Application of AKGEC using Java Spring Boot.
+### [Quizaki](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
+**Description**: Backend for the Quiz Application of using Java Spring Boot.
 
 ---
 
