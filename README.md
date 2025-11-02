@@ -96,8 +96,26 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 
 ## <p align="center">📂 Featured Projects</p>
 
-### [SnapSphere Website](https://github.com/Saurabh12325/MyFinanceWebsite)
-**Description**:MyFinance Website is a modern personal finance management platform that helps users track income, expenses, and savings with intuitive dashboards and visual analytics. Built using the JAVA Full stack using React and Spring Boot, it provides secure authentication, category-based tracking, and insightful financial summaries for better money management ).
+### [MyFinance Website](https://github.com/Saurabh12325/MyFinanceWebsite)
+**Description**: MyFinance Website is a modern personal finance management platform designed to simplify money tracking and provide powerful insights into your financial activities.
+
+Key Features:
+
+💰 Income & Expense Tracking – Easily record and categorize your daily income and expenses.
+
+📈 Smart Dashboards & Analytics – Get a clear visual overview of your financial health through interactive charts and graphs.
+
+🔐 Secure Authentication – Built with Spring Security and JWT to ensure safe and authorized access.
+
+🗂️ Category-Based Management – Organize transactions by categories for better clarity and budgeting.
+
+📅 Daily Income Tracking Notifications – Receive automatic reminders and updates to log your daily income.
+
+📧 Excel Report via Email – Automatically receive your financial data as a downloadable Excel sheet in your inbox.
+
+⚙️ Full Stack Implementation – Developed using React (frontend) and Spring Boot (backend) with RESTful APIs.
+
+☁️ Scalable & Reliable – Designed for scalability and smooth performance across devices.
 
 ### [Quizaki](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
 **Description**: Backend for the Quiz Application of using Java Spring Boot.
