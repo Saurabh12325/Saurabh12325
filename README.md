@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 - 📫 Reach me at **saurabhsri.mau@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;MERN+Stack;Tech+Enthusiast+🚀&color=F7DF1E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;MERN+Stack+Developer;Cloud+Practitioner;Tech+Enthusiast+🚀&color=FF9800" alt="Typing SVG" />
 </p>
 
 ---
