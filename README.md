@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi there, I'm Saurabh</p>
 
 <p align="center">
-Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about technology, programming, and building innovative solutions.
+Welcome to my GitHub profile! I'm a <b>Java & Node.js Backend Developer</b> passionate about building scalable systems, microservices, and cloud-native applications.
 </p>
 
 <p align="center">
@@ -12,14 +12,15 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 
 ## <p align="center">🚀 About Me</p>
 
-- 🌱 I’m currently learning **Microservices and Spring Boot**
-- 👨‍💻 I enjoy working on **open-source projects**, **side projects**, and exploring **new technologies**
-- 💬 Ask me about **Spring Boot**, **Core Java**, **REST APIs**, or **Backend Development**
+- 🌱 I’m currently working with **Spring Boot, Node.js, and Microservices Architecture**
+- 👨‍💻 I build **backend systems**, **REST APIs**, and **event-driven services**
+- ⚙️ Experienced in **Java + Node.js backend development**
+- 💬 Ask me about **Spring Boot**, **Node.js**, **REST APIs**, **Microservices**, and **Backend Design**
 - 📫 Reach me at **saurabhsri.mau@gmail.com** or connect on  
   [**LinkedIn**](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;Backend+Engineer;Spring+Boot+Specialist;Cloud+Practitioner;Tech+Enthusiast+🚀&color=FF9800" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Node.js+Backend+Developer;Microservices+Engineer;Cloud+Native+Developer;Tech+Enthusiast+🚀&color=FF9800" />
 </p>
 
 ---
@@ -27,28 +28,31 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 ## <p align="center">🛠️ Tech Stack</p>
 
 <p align="center">
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" />
+
+  <!-- Frontend / Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" title="React Native" />
+
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" />
-  <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="65" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" />
 
----
+  <!-- Messaging / Caching -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="65" title="Kafka" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="65" title="RabbitMQ" />
 
-## <p align="center">🐍 Contribution Snake</p>
-
-<p align="center">
-  <img src="https://github.com/Saurabh12325/Saurabh12325/blob/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <!-- DevOps / Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" title="GitHub Actions" />
+  <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="65" title="AWS" />
 </p>
 
 ---
@@ -74,18 +78,10 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 
 ---
 
-## <p align="center">🧩 Coding Profiles</p>
+## <p align="center">🐍 Contribution Snake</p>
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Coder-green?style=for-the-badge&logo=hackerrank" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive-brown?style=for-the-badge&logo=codechef" />
-  </a>
+  <img src="https://github.com/Saurabh12325/Saurabh12325/blob/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </p>
 
 ---
@@ -95,22 +91,22 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 ### 🔹 [MyFinance Website](https://github.com/Saurabh12325/MyFinanceWebsite)
 
 **Description**:  
-A modern personal finance management platform built with **Spring Boot** and **React**.
+A modern personal finance management platform built using **Spring Boot + React**.
 
 **Key Features**:
 - 💰 Income & Expense Tracking  
 - 📊 Analytics Dashboard  
-- 🔐 JWT + Spring Security  
+- 🔐 JWT & Spring Security  
 - 📅 Daily Reminder Notifications  
 - 📧 Excel Report via Email  
-- ☁️ Cloud-ready & scalable  
+- ☁️ Scalable & cloud-ready  
 
 ---
 
 ### 🔹 [Quizaki Backend](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
 
 **Description**:  
-Spring Boot backend for an online quiz platform with REST APIs.
+Backend service built with **Spring Boot** for an online quiz platform using REST APIs.
 
 ---
 
@@ -120,19 +116,22 @@ Spring Boot backend for an online quiz platform with REST APIs.
 - ✅ RESTful API Design  
 - ✅ Microservices Architecture  
 - ✅ JWT Authentication & Authorization  
+- ✅ Redis for Caching  
+- ✅ Apache Kafka (Event Streaming)  
+- ✅ RabbitMQ (Message Queues)  
 - ✅ Database Design & Optimization  
-- ✅ CI/CD using GitHub Actions  
-- ✅ Dockerized Applications  
+- ✅ CI/CD with GitHub Actions  
+- ✅ Docker & Kubernetes  
 - ✅ Cloud Deployment (AWS, Render, Vercel)  
 
 ---
 
 ## <p align="center">🧠 Currently Working On</p>
 
-- 🚀 Spring Boot Microservices  
+- 🚀 Java & Node.js Microservices  
 - 🔐 Advanced Security (JWT, OAuth2)  
-- ☁️ AWS + Docker + CI/CD  
-- 📈 Data Structures & System Design  
+- ☁️ Kubernetes & Cloud-Native Systems  
+- 📈 System Design & Scalability  
 
 ---
 
