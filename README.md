@@ -49,7 +49,7 @@ I'm a <b>MERN Full Stack Developer</b> and <b>Java Full Stack Developer</b> pass
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65"/>
+  <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="65" title="AWS"/>
 </p>
 
 ---
@@ -80,6 +80,30 @@ I'm a <b>MERN Full Stack Developer</b> and <b>Java Full Stack Developer</b> pass
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saurabh12325/Saurabh12325/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+## <p align="center">📂 Featured Projects</p>
+
+### 🔹 [MyFinance Website](https://github.com/Saurabh12325/MyFinanceWebsite)
+
+**Description**  
+A modern personal finance management platform built using **Spring Boot + React**.
+
+**Key Features**
+- 💰 Income & Expense Tracking  
+- 📊 Analytics Dashboard  
+- 🔐 JWT & Spring Security  
+- 📅 Daily Reminder Notifications  
+- 📧 Excel Report via Email  
+- ☁️ Scalable & cloud-ready  
+
+---
+
+### 🔹 [Quizaki Backend](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
+
+**Description**  
+Backend service built with **Spring Boot** for an online quiz platform using REST APIs.
 
 ---
 
