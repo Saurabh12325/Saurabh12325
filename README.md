@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi there, I'm Saurabh</p>
 
 <p align="center">
-I'm a <b>MERN Full Stack Developer</b> and <b>Java Full Stack Developer</b> passionate about building scalable, cloud-native applications.
+I'm a <b>MERN Full Stack Developer</b> and <b>Java Full Stack Developer</b> with hands-on experience in <b>DevOps</b>, passionate about building scalable, cloud-native applications.
 </p>
 
 <p align="center">
@@ -10,17 +10,20 @@ I'm a <b>MERN Full Stack Developer</b> and <b>Java Full Stack Developer</b> pass
 
 ---
 
-## <p align="center">🚀 About Me</p>
+## <p align="center"> About Me</p>
+
 
 - 🌱 Working as a **MERN Full Stack Developer** and **Java Full Stack Developer**
-- 👨‍💻 Building **end-to-end applications**, **REST APIs**, and **scalable backend systems**
-- ⚙️ Focused on **clean architecture**, **performance**, and **system design**
-- 💬 Ask me about **MERN Stack**, **Java Full Stack**, **REST APIs**, and **Backend Architecture**
+- 🧩 I build **frontend interfaces** using **React** and **backend services** using **Node.js** and **Spring Boot**
+- 👨‍💻 Experienced in developing **end-to-end applications**, from UI to database and deployment
+- ⚙️ Strong focus on **clean architecture**, **scalable system design**, and **performance optimization**
+- 🔄 Comfortable working across **frontend, backend, databases, and DevOps workflows**
+- 💬 Ask me about **MERN Stack**, **Java Full Stack**, **Frontend–Backend integration**, **REST APIs**, and **Backend Architecture**
 - 📫 Reach me at **saurabhsri.mau@gmail.com** or connect on  
   [**LinkedIn**](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;Java+Full+Stack+Developer;Cloud+Native+Developer;Tech+Enthusiast+🚀&color=FF9800" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;Java+Full+Stack+Developer;Devops+Engineer;Tech+Enthusiast+&color=FF9800" />
 </p>
 
 ---
