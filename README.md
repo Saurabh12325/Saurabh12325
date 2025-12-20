@@ -4,89 +4,61 @@
 Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about technology, programming, and building innovative solutions.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurabh12325&label=Profile%20Views&color=orange&style=flat" />
+</p>
+
 ---
 
 ## <p align="center">🚀 About Me</p>
 
-- 🌱 I’m currently learning **Microservices and Spring Boot**  
-- 👨‍💻 I enjoy working on **open-source projects**, **side projects**, and exploring **new technologies**  
-- 💬 Ask me about **Spring Boot**, **Core Java**, **REST APIs**, or **Backend Development**  
-- 📫 Reach me at **saurabhsri.mau@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)
+- 🌱 I’m currently learning **Microservices and Spring Boot**
+- 👨‍💻 I enjoy working on **open-source projects**, **side projects**, and exploring **new technologies**
+- 💬 Ask me about **Spring Boot**, **Core Java**, **REST APIs**, or **Backend Development**
+- 📫 Reach me at **saurabhsri.mau@gmail.com** or connect on  
+  [**LinkedIn**](https://www.linkedin.com/in/saurabh-srivastav-ab7712285/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;MERN+Stack+Developer;Cloud+Practitioner;Tech+Enthusiast+🚀&color=FF9800" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=JAVA+Full+Stack+Developer;Backend+Engineer;Spring+Boot+Specialist;Cloud+Practitioner;Tech+Enthusiast+🚀&color=FF9800" />
 </p>
 
 ---
 
 ## <p align="center">🛠️ Tech Stack</p>
 
-<!-- Row 1 -->
 <p align="center">
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" title="Java" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" title="JavaScript" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" title="React" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" title="Spring Boot" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" title="Node.js" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" title="Docker" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" title="MongoDB" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" />
+  <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="65" />
 </p>
 
-<!-- Row 2 -->
+---
+
+## <p align="center">🐍 Contribution Snake</p>
+
 <p align="center">
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" title="PostgreSQL" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" title="MySQL" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" title="HTML5" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" title="CSS3" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" title="Tailwind CSS" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="65" height="65" title="AWS" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="65" height="65" title="Render" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://img.icons8.com/?size=100&id=qBx4PdDfKuXK&format=png&color=000000" width="65" height="65" title="Vercel" />
-  </span>
-  <span style="margin: 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="65" height="65" title="Netlify" />
-  </span>
+  <img src="https://github.com/Saurabh12325/Saurabh12325/blob/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </p>
 
 ---
 
 ## <p align="center">📈 GitHub Stats & Languages</p>
 
-<!-- GitHub Stats (Top) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurabh12325&show_icons=true&theme=radical" height="180em" />
 </p>
 
-<!-- Side-by-side: Most Used Languages + Streak Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh12325&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh12325&theme=radical" height="180em" />
@@ -94,47 +66,80 @@ Welcome to my GitHub profile! I'm a <b>Java Developer</b> passionate about techn
 
 ---
 
-## <p align="center">📂 Featured Projects</p>
+## <p align="center">📊 Contribution Activity</p>
 
-### [MyFinance Website](https://github.com/Saurabh12325/MyFinanceWebsite)
-**Description**: MyFinance Website is a modern personal finance management platform designed to simplify money tracking and provide powerful insights into your financial activities.
-
-Key Features:
-
-💰 Income & Expense Tracking – Easily record and categorize your daily income and expenses.
-
-📈 Smart Dashboards & Analytics – Get a clear visual overview of your financial health through interactive charts and graphs.
-
-🔐 Secure Authentication – Built with Spring Security and JWT to ensure safe and authorized access.
-
-🗂️ Category-Based Management – Organize transactions by categories for better clarity and budgeting.
-
-📅 Daily Income Tracking Notifications – Receive automatic reminders and updates to log your daily income.
-
-📧 Excel Report via Email – Automatically receive your financial data as a downloadable Excel sheet in your inbox.
-
-⚙️ Full Stack Implementation – Developed using React (frontend) and Spring Boot (backend) with RESTful APIs.
-
-☁️ Scalable & Reliable – Designed for scalability and smooth performance across devices.
-
-### [Quizaki](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
-**Description**: Backend for the Quiz Application of using Java Spring Boot.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh12325&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-## <p align="center">🌟 Future Goals</p>
+## <p align="center">🧩 Coding Profiles</p>
 
-- Learn **Kubernetes** and container orchestration  
-- Build a **scalable e-commerce platform**  
-- Contribute to **open-source projects**  
-- Explore **DevOps** and **CI/CD pipelines**
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Coder-green?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
+
+---
+
+## <p align="center">📂 Featured Projects</p>
+
+### 🔹 [MyFinance Website](https://github.com/Saurabh12325/MyFinanceWebsite)
+
+**Description**:  
+A modern personal finance management platform built with **Spring Boot** and **React**.
+
+**Key Features**:
+- 💰 Income & Expense Tracking  
+- 📊 Analytics Dashboard  
+- 🔐 JWT + Spring Security  
+- 📅 Daily Reminder Notifications  
+- 📧 Excel Report via Email  
+- ☁️ Cloud-ready & scalable  
+
+---
+
+### 🔹 [Quizaki Backend](https://github.com/Saurabh12325/CCCQuizWebApplicationBackend)
+
+**Description**:  
+Spring Boot backend for an online quiz platform with REST APIs.
+
+---
+
+## <p align="center">⚙️ Engineering Practices</p>
+
+- ✅ Clean Code & SOLID Principles  
+- ✅ RESTful API Design  
+- ✅ Microservices Architecture  
+- ✅ JWT Authentication & Authorization  
+- ✅ Database Design & Optimization  
+- ✅ CI/CD using GitHub Actions  
+- ✅ Dockerized Applications  
+- ✅ Cloud Deployment (AWS, Render, Vercel)  
+
+---
+
+## <p align="center">🧠 Currently Working On</p>
+
+- 🚀 Spring Boot Microservices  
+- 🔐 Advanced Security (JWT, OAuth2)  
+- ☁️ AWS + Docker + CI/CD  
+- 📈 Data Structures & System Design  
 
 ---
 
 ## <p align="center">🏆 GitHub Trophies</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh12325&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh12325&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
