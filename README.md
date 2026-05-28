@@ -1,4 +1,4 @@
-# <p align="center">👋 Hi there, I'm Saurabh</p>
+# <p align="center">👋 Hi there I'm Saurabh</p>
 
 <p align="center">
 I'm a <b>MERN Full Stack Developer</b> and <b>Java Full Stack Developer</b> with hands-on experience in <b>DevOps</b>, passionate about building scalable, cloud-native applications.
